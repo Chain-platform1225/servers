@@ -7,7 +7,6 @@
 
 // @package
 package db
-
 // @import
 import (
 	"Syns/servers/syns-users-ms/utils"
